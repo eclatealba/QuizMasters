@@ -227,10 +227,9 @@ As a developer, I want to ensure that adequate security checks are put in place 
 So that their profiles are secured.
 
 
-# Project Part B
+# Project Part B 
 
 https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629-9db2-c40a910b40ea.mp4
-
 
 
 # Project Outline
@@ -249,32 +248,22 @@ Iteration 1 - Setup Development Environment (Completed)
  * Create a "Hello" Page to test the environment (David)
  * Write usage instructions (David)
  
+ # Project Part C
 Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
- * Setup the RDBMS environment (Kasia) - 3 days
- * RDBMS issues: 10,1
- * Test question issues: 2, 12
- * Create test questions (David, Kasia) - 1 day
- * Define the Minimum Viable Product (David) - 1 day
+ * Research and deploy the Database Option (Kasia) - implemented SQLite
+ * Write Test question issues (Kasia): 2, 12 - wrote 5 questions to test the MVP
+ * Define the Minimum Viable Product (David,Anne,Frances,Davinder,Kasia) - 1 day
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
  * Issues satisfied: 25, 19, 18
  * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, Kasia, David) - 5 days
  * Issue 26 - Test the build of the quiz engine - 1 day
+ * Star writing unit tests for elements in the three user experiences: Registration, Login, Test Taking (David, Frances, Anne, Davinder)
+ * Pytests for Registration - 1 test written 
+ * Pytests for Login - 2 test written
+ * Pytests for TestTaking 
 
  
-
-**Milestone 2** 12/6
-
-Iteration 1  - Improve User Experience
-  * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
-  * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
-  * Work on Login experience (Annie, Davinder, Francis) - 2 days
-  * Create quiz scores
-
-Iteration 2 Work on Quiz Taking experience
- * Consolidate the Registration, Login and Test Taking experience
- * Test and Validate the holistic, combined experience
-
 
 # Velocity
 
@@ -309,3 +298,17 @@ Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMast
 ![Project status](https://user-images.githubusercontent.com/113940939/193574222-504d7cd9-a0a0-40b1-ad91-1c0241280939.JPG)
 
 Click [here](https://github.com/users/eclatealba/projects/1) to see project progress. 
+
+# Project Part D
+
+**Milestone 2** 12/6
+
+Iteration 1  - Improve User Experience
+  * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
+  * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
+  * Work on Login experience (Annie, Davinder, Francis) - 2 days
+  * Create quiz scores
+
+Iteration 2 Work on Quiz Taking experience
+ * Consolidate the Registration, Login and Test Taking experience
+ * Test and Validate the holistic, combined experience
