@@ -256,7 +256,7 @@ Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
  * Issues satisfied: 25, 19, 18
- * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, Kasia, David) - 5 days
+ * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
  * Issue 26 - Test the build of the quiz engine - 1 day
  * Star writing unit tests for elements in the three user experiences: Registration, Login, Test Taking (David, Frances, Anne, Davinder)
  * Pytests for Registration - 1 test written 
