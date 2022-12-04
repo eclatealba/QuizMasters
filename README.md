@@ -226,6 +226,34 @@ As a developer, I want to ensure that adequate security checks are put in place 
 
 So that their profiles are secured.
 
+# Velocity
+
+Team Members: 5
+
+Each team member has competing professional and educational responsibiliteis, therfore the velocity for this effort is mitigated by other responsibilities. 
+
+Starting Velocity for the group: .25
+
+ * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 8/8 tasks completed
+ * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks assigned
+ * Milestone 2, Iteration 1 (11/2 -11/15, 13 days)
+ * Milestone 2, Iteration 2 (11/16 - 12/6, 20 with Thanksgiving)
+
+
+# Burn Down Chart
+Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart_4.xlsx) to see the burndown rate and chart.
+
+# Meeting Record
+ * 9/20 -Met in person, discuss approach to part B
+ * 9/23 – Met on Zoom
+ * 9/27 – Met in person, before class to discuss tasks and velocities
+ * 9/27 – Met in person, after class to discuss setup and Part B requirements
+ * 9/28 – part of the group met to deploy the python portion of the solution 
+ * 9/30 – Email communication with the group regarding status
+ * 10/1 – Met on Zoom
+ * 10/2 – Final meeting before submitting Plan B to Canvas 
+ * 10/2 – Email project status 
+
 
 # Project Part B 
 
@@ -265,33 +293,7 @@ Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
 
  
 
-# Velocity
 
-Team Members: 5
-
-Each team member has competing professional and educational responsibiliteis, therfore the velocity for this effort is mitigated by other responsibilities. 
-
-Starting Velocity for the group: .25
-
- * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 8/8 tasks completed
- * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks assigned
- * Milestone 2, Iteration 1 (11/2 -11/15, 13 days)
- * Milestone 2, Iteration 2 (11/16 - 12/6, 20 with Thanksgiving)
-
-
-# Burn Down Chart
-Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart_4.xlsx) to see the burndown rate and chart.
-
-# Meeting Record
- * 9/20 -Met in person, discuss approach to part B
- * 9/23 – Met on Zoom
- * 9/27 – Met in person, before class to discuss tasks and velocities
- * 9/27 – Met in person, after class to discuss setup and Part B requirements
- * 9/28 – part of the group met to deploy the python portion of the solution 
- * 9/30 – Email communication with the group regarding status
- * 10/1 – Met on Zoom
- * 10/2 – Final meeting before submitting Plan B to Canvas 
- * 10/2 – Email project status 
 
 
 # Project Status
