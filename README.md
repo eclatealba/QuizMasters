@@ -275,6 +275,7 @@ https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
  * Issues satisfied: 25, 19, 18
+ 
 **Milestone2, Iteration 1**
  * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
  * Issue 26 - Test the build of the quiz engine - 1 day
