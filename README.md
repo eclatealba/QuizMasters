@@ -268,14 +268,14 @@ Milestone 1, Iteration 1 - Setup Development Environment (Completed)
  * Write usage instructions (David)
  
  # Project Part C
-Milestone1, Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
+**Milestone1, Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
  * Research and deploy the Database Option (Kasia) - implemented SQLite
  * Write Test question issues (Kasia): 2, 12 - wrote 5 questions to test the MVP
  * Define the Minimum Viable Product (David,Anne,Frances,Davinder,Kasia) - 1 day
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
  * Issues satisfied: 25, 19, 18
-Milestone2, Iteration 1
+**Milestone2, Iteration 1
  * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
  * Issue 26 - Test the build of the quiz engine - 1 day
  * Star writing unit tests for elements in the three user experiences: Registration, Login, Test Taking (David, Frances, Anne, Davinder)
@@ -285,12 +285,12 @@ Milestone2, Iteration 1
 
 # Project Part D
 
-Milestone2, Iteration 1  - Improve User Experience
+**Milestone2, Iteration 1  - Improve User Experience
   * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
   * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
   * Work on Login experience (Annie, Davinder, Francis) - 2 days
   * Create quiz scores
 
-Iteration 2 Work on Quiz Taking experience
+**Mileston2, Iteration 2 Work on Quiz Taking experience
  * Consolidate the Registration, Login and Test Taking experience
  * Test and Validate the holistic, combined experience
