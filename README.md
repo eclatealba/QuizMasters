@@ -280,7 +280,7 @@ Starting Velocity for the group: .25
 
 
 # Burn Down Chart
-Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart.xlsx) to see the burndown rate and chart.
+Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart_4.xlsx) to see the burndown rate and chart.
 
 # Meeting Record
  * 9/20 -Met in person, discuss approach to part B
