@@ -235,33 +235,27 @@ Each team member has competing professional and educational responsibiliteis, th
 Starting Velocity for the group: .25
 
  * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 8/8 tasks completed
- * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks assigned
- * Milestone 2, Iteration 1 (11/2 -11/15, 13 days)
- * Milestone 2, Iteration 2 (11/16 - 12/6, 20 with Thanksgiving)
+ * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks completed
+ * Milestone 2, Iteration 1 (11/2 -11/15, 13 days) - 6 tasks completed
+ * Milestone 2, Iteration 2 (11/16 - 12/6, 20 days with Thanksgiving) - 7 tasks completed
 
 
 # Burn Down Chart
 Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart_4.xlsx) to see the burndown rate and chart.
 
 # Meeting Record
- * 9/20 -Met in person, discuss approach to part B
- * 9/23 – Met on Zoom
- * 9/27 – Met in person, before class to discuss tasks and velocities
- * 9/27 – Met in person, after class to discuss setup and Part B requirements
- * 9/28 – part of the group met to deploy the python portion of the solution 
- * 9/30 – Email communication with the group regarding status
- * 10/1 – Met on Zoom
- * 10/2 – Final meeting before submitting Plan B to Canvas 
- * 10/2 – Email project status 
+ * Meetings in person
+ * Meetings on Zoom
+ * Information exchange via email
+ * Information exchange via Whatsapp
 
 
 # Project Part B 
 
 https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629-9db2-c40a910b40ea.mp4
 
-**Milestone 1** 11/1
 
-Iteration 1 - Setup Development Environment (Completed)
+Milestone 1, Iteration 1 - Setup Development Environment (Completed)
  * Calculate Velocity (Kasia, Annie)
  * Identify tasks, based on user stories (Kasia)
  * Define Milestones and Iterations (Kasia)
@@ -274,13 +268,14 @@ Iteration 1 - Setup Development Environment (Completed)
  * Write usage instructions (David)
  
  # Project Part C
-Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
+Milestone1, Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
  * Research and deploy the Database Option (Kasia) - implemented SQLite
  * Write Test question issues (Kasia): 2, 12 - wrote 5 questions to test the MVP
  * Define the Minimum Viable Product (David,Anne,Frances,Davinder,Kasia) - 1 day
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
  * Issues satisfied: 25, 19, 18
+Milestone2, Iteration 1
  * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
  * Issue 26 - Test the build of the quiz engine - 1 day
  * Star writing unit tests for elements in the three user experiences: Registration, Login, Test Taking (David, Frances, Anne, Davinder)
@@ -290,9 +285,7 @@ Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
 
 # Project Part D
 
-**Milestone 2** 12/6
-
-Iteration 1  - Improve User Experience
+Milestone2, Iteration 1  - Improve User Experience
   * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
   * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
   * Work on Login experience (Annie, Davinder, Francis) - 2 days
