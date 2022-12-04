@@ -259,9 +259,6 @@ Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMast
 
 https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629-9db2-c40a910b40ea.mp4
 
-
-# Project Outline
-
 **Milestone 1** 11/1
 
 Iteration 1 - Setup Development Environment (Completed)
