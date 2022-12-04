@@ -291,16 +291,6 @@ Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)
  * Pytests for Login - 2 test written
  * Pytests for TestTaking 
 
- 
-
-
-
-
-# Project Status
-![Project status](https://user-images.githubusercontent.com/113940939/193574222-504d7cd9-a0a0-40b1-ad91-1c0241280939.JPG)
-
-Click [here](https://github.com/users/eclatealba/projects/1) to see project progress. 
-
 # Project Part D
 
 **Milestone 2** 12/6
