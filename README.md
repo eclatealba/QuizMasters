@@ -234,10 +234,10 @@ Each team member has competing professional and educational responsibiliteis, th
 
 Starting Velocity for the group: .25
 
- * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 6 tasks completed
- * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks completed
- * Milestone 2, Iteration 1 (11/2 -11/15, 13 days) - 7 tasks completed
- * Milestone 2, Iteration 2 (11/16 - 12/6, 20 days with Thanksgiving) - 8 tasks completed
+ * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 8 tasks completed
+ * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 7 tasks completed
+ * Milestone 2, Iteration 1 (11/2 -11/15, 13 days) - 6 tasks completed
+ * Milestone 2, Iteration 2 (11/16 - 12/6, 20 days with Thanksgiving) - 6 tasks completed
 
 
 # Burn Down Chart
@@ -267,6 +267,7 @@ https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629
   - Install Flask
  * Create a "Hello" Page to test the environment (David)
  * Write usage instructions (David)
+ Issues completed: 3, 4, 5, 6, 7, 8, 9,11
  
  # Project Part C
 **Milestone1, Iteration 2 - Build Quiz Model**
@@ -275,24 +276,24 @@ https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629
  * Define the Minimum Viable Product (David,Anne,Frances,Davinder,Kasia) - 1 day
  * Create CSS templates (David) - 3 days
  * Create HTML styles (David) - 4 days
- * Issues satisfied: 25, 19, 18
+ * Issues satisfied: 1, 15, 18, 19, 20, 26
  
 **Milestone2, Iteration 1**
- * Issue 15- Build Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
- * Issue 26 - Test the build of the quiz engine - 1 day
+ * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
+ * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
+ * Work on Login experience (Annie, Davinder, Francis) - 2 days
+ * Create quiz scores
+ * Combine Quiz Engine  (Annie, Davinder, Francis, David) - 5 days
  * Star writing unit tests for elements in the three user experiences: Registration, Login, Test Taking (David, Frances, Anne, Davinder)
- * Pytests for Registration - 1 test written 
- * Pytests for Login - 2 test written
- * Pytests for TestTaking 
+
+ * Issues satisfied: 2, 10, 12, 13, 14, 16
 
 # Project Part D
 
-**Milestone2, Iteration 1  - Improve User Experience**
-  * Work on Quiz Taking experience (Annie, Davinder, Francis) - 5 days 
-  * Work on Registration experience (Annie, Davinder, Kasia) - 2 days
-  * Work on Login experience (Annie, Davinder, Francis) - 2 days
-  * Create quiz scores
-
 **Mileston2, Iteration 2 Work on Quiz Taking experience**
- * Consolidate the Registration, Login and Test Taking experience
- * Test and Validate the holistic, combined experience
+ * Functionality expansion, add a timer 
+ * Complete Writing unit tests for Registration, Login and Test Taking experience
+ * Test and Validate the holistic, combined testing effort
+ * Test the Flask routes 
+ 
+ * Issues satisfied: 17,  21, 22, 27, 28, 30
