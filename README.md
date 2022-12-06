@@ -341,5 +341,10 @@ The codes were tested at previous levels in order to test the functionality of t
 * Three user experiences including Registration, Login and Test taking session. Allowing a student to take 20 questions within the scope of the IST 303 class for the purse of determining the possibility of testing out of the class. 
 
 **What We Learned**
+Collaboration: Our team consisted of five folks with different strengths and backgrounds. We saw challenges and opportunities from different perspectives. At times we had to talk thorough an issue or a decision over a zoom call to understand where everybody  was comming from, but ultimatelly the conversation gave a better underderstanding to all of us. 
+
+Code Interpretation: Writing code to create and reading code to understand how it works together are different skills. Generating a solution was a very creative process, full of possible avenues for the project to diverge. However,when we ran into errors or logic challenges we needed to step thorugh the code in the order of its execution to find the element that needed fixing.
+
+Agile Methodology: We learned a lot about Agile Methodologies through reading but the project gave us an opportunity to experience the process of managing an effort with forethough and planning. The approach made a lot of difference in terms of assessing what the team could accomplish given the constraints. 
 
 * Final Presentation: https://docs.google.com/presentation/d/1lJ95T4EmM6BZx7x_cFSQIgDcUpd0O90_Svj6hMv-6ws/edit?usp=sharing
