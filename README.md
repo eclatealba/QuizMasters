@@ -234,20 +234,20 @@ Each team member has competing professional and educational responsibiliteis, th
 
 Starting Velocity for the group: .25
 
- * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 8/8 tasks completed
+ * Milestone 1, Iteration 1 (9/19 - 10/4, 17 days) - 6 tasks completed
  * Milestone 1, Iteration 2 (10/5 - 11/1, 26 days with Midterm) - 6 tasks completed
- * Milestone 2, Iteration 1 (11/2 -11/15, 13 days) - 6 tasks completed
- * Milestone 2, Iteration 2 (11/16 - 12/6, 20 days with Thanksgiving) - 7 tasks completed
+ * Milestone 2, Iteration 1 (11/2 -11/15, 13 days) - 7 tasks completed
+ * Milestone 2, Iteration 2 (11/16 - 12/6, 20 days with Thanksgiving) - 8 tasks completed
 
 
 # Burn Down Chart
 Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMasters_Burndown_chart_4.xlsx) to see the burndown rate and chart.
 
 # Meeting Record
- * Meetings in person
- * Meetings on Zoom
- * Information exchange via email
- * Information exchange via Whatsapp
+ * Meetings in person - met on each Tuesday after class, occasionally met on Thursdays for coding sessions
+ * Meetings on Zoom - met over zoom once or twice a week to discuss project plans 
+ * Information exchange via email - used to exchange ideas and hold longer discussions
+ * Information exchange via Whatsapp - used to communicate extensively 
 
 
 # Project Part B 
@@ -255,10 +255,11 @@ Click [here](https://github.com/eclatealba/QuizMasters/blob/main/IST303_QuizMast
 https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629-9db2-c40a910b40ea.mp4
 
 
-**Milestone 1, Iteration 1 - Setup Development Environment (Completed)**
+**Milestone 1, Iteration 1 - Setup Development Environment**
  * Calculate Velocity (Kasia, Annie)
  * Identify tasks, based on user stories (Kasia)
  * Define Milestones and Iterations (Kasia)
+ * Setup & Maintain Burndown Chart
  * Setup Enviornment (David)
   - Install Virtual Environment
   - Install Python
@@ -268,8 +269,8 @@ https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629
  * Write usage instructions (David)
  
  # Project Part C
-**Milestone1, Iteration 2 - Build Quiz Model (In progress - Estimate: 20 days)**
- * Research and deploy the Database Option (Kasia) - implemented SQLite
+**Milestone1, Iteration 2 - Build Quiz Model**
+ * Research and deploy the Database Option (Kasia)
  * Write Test question issues (Kasia): 2, 12 - wrote 5 questions to test the MVP
  * Define the Minimum Viable Product (David,Anne,Frances,Davinder,Kasia) - 1 day
  * Create CSS templates (David) - 3 days
