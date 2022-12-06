@@ -297,3 +297,8 @@ https://user-images.githubusercontent.com/113940939/193473294-a7fd3be5-05e1-4629
  * Test the Flask routes 
  
  * Issues satisfied: 17,  21, 22, 27, 28, 30
+
+# Final Deliverable
+* Completed 29 tasks
+* Two tasks were not pursued: 29, 23
+* Three user experiences including Registration, Login and Test taking session. Allowing a student to take 20 questions within the scope of the IST 303 class for the purse of determining the possibility of testing out of the class. 
