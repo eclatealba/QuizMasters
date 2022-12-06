@@ -17,23 +17,53 @@ Olalekan David-Banjo
 Kasia Tuszynska
 
 # Installation
-### clone this repo
-$ git clone https://github.com/eclatealba/QuizMasters.git
+## 1. Clone/Fork the git repo and create an environment
 
-**go to the directory**
-$ cd QuizMasters
+### Windows
 
-### use virtual env
-$ virtualenv ENV && source ENV/bin/activate
+git clone https://github.com/profdbanjo/QuizMasters.git
+#### cd QuizMasters
+python -m venv venv
 
-### generate static project
-$ pip install -r requirements.txt
+### macOS/Linux
 
-### export flask app and run
-$ set FLASK_APP=app.py (For Windows)
-$ export FLASK_APP=app.py (For Mac)
+git clone https://github.com/profdbanjo/QuizMasters.git
+### cd QuizMasters
+python3 -m venv venv
+
+
+##  2. Activate the environment
+
+### Windows
+
+venv\Scripts\activate
+
+### macOS/Linux
+
+. venv/bin/activate or source venv/bin/activate
+
+
+##  3. Install the requirements
+
+Applies for windows/macOS/Linux
+
+cd QuizMasters
+pip install -r requirements.txt
+--
+## 4. export flask app and run
+$ set FLASK_APP=routes.py (For Windows)
+$ export FLASK_APP=routes.py (For Mac)
 
 $ flask run
+
+##  5. Run Pytest
+
+From CD QuizmMasters
+
+pip install pytest
+
+pytest tests.py
+
 
 
 # Project Goal
